@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstKotlinApplication</string>
+    <string name="toast_button">Show Toast</string>
+    <string name="welcome_toast">Welcome Envato User</string>
+</resources>
